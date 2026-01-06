@@ -1,0 +1,22 @@
+{
+  "name": "emailsend",
+  "version": "1.0.0",
+  "main": "functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimurtazabhatti0307-png/Emails_Sending.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimurtazabhatti0307-png/Emails_Sending/issues"
+  },
+  "homepage": "https://github.com/alimurtazabhatti0307-png/Emails_Sending#readme",
+  "description": "",
+  "dependencies": {
+    "nodemailer": "^7.0.12"
+  }
+}
