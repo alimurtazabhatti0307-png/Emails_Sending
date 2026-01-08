@@ -24,7 +24,7 @@ export default async ({ req, res, log }) => {
     });
 
     await transporter.sendMail({
-      from: `"Appwrite Mailer" <${process.env.SMTP_USER}>`,
+      from: `"Home Choice Reality" <${process.env.SMTP_USER}>`,
       to,
       subject,
       text: message,
